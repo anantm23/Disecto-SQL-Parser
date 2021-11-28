@@ -19,3 +19,5 @@ Task Assigned for Disecto Internship Submission
 ### Final Output
 Developed a SQL parser which parses the SQL command and stores it in the dictionary format.
 Have used sqlparse library and string operations to build this.
+
+Project by : [Anant Mundankar](https://github.com/anantm23)
